@@ -1,0 +1,5 @@
+[
+{"lang":"Indonesia","name":"Transliterasi","translator":"Indonesia Transliterasi","link":"https://api.npoint.io/99c279bb173a6e28359c/surat","id":"id.transliteration"},
+{"lang":"English","name":"Transliteration","translator":"English Transliteration","link":"http://tanzil.net/trans/en.transliteration","id":"en.transliteration"},
+{"lang":"Turkish","name":"Çeviriyazı","translator":"Muhammet Abay","link":"http://tanzil.net/trans/tr.transliteration","id":"tr.transliteration"}
+]
