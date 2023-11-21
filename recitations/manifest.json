@@ -12,18 +12,6 @@
       "bitrate": "128kbps"
    },
    {
-      "id": "Abdullah_Basfar_32kbps",
-      "path": "https://everyayah.com/data/Abdullah_Basfar_32kbps",
-      "name": "Abdullah Basfar",
-      "bitrate": "32kbps"
-   },
-   {
-      "id": "Abdullah_Basfar_64kbps",
-      "path": "https://everyayah.com/data/Abdullah_Basfar_64kbps",
-      "name": "Abdullah Basfar",
-      "bitrate": "64kbps"
-   },
-   {
       "id": "Abdullah_Basfar_192kbps",
       "path": "https://everyayah.com/data/Abdullah_Basfar_192kbps",
       "name": "Abdullah Basfar",
