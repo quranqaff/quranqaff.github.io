@@ -1,3 +1,14 @@
-[
-{"lang":"Indonesian","name":"Tafsir Jalalayn","translator":"Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti","link":"http://tanzil.net/trans/id.jalalayn","id":"id.jalalayn"}
-]
+{
+    "app": "Qaff",
+    "version": 1,
+    "versionCode": "v2.0",
+    "status": "OK",
+    "collection": "Tafseer",
+    "code": 200,
+    "message": "Data retrieved",
+    "errors": [],
+    "data": [
+        {"lang":"Indonesian","name":"Tafsir Jalalayn","translator":"Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti","link":"http://tanzil.net/trans/id.jalalayn","id":"id.jalalayn"}
+    ],
+    "meta": null
+}
